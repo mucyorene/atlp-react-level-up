@@ -23,7 +23,7 @@ export const Navigation = () => {
                             <img src="../assets/icon-arrow-down.svg" alt="" aria-hidden="true"/></button>
                         <ul className="hidden-features">
                             <li><img src="../assets/icon-todo.svg" alt="" aria-hidden="true" width="15"
-                                     height="15"/><a href="/">Todo
+                                     height="15"/><a href="/">
                                 List</a></li>
                             <li><img src="../assets/icon-calendar.svg" alt="" aria-hidden="true" width="15"
                                      height="15"/> <a
